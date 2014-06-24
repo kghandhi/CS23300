@@ -1,4 +1,4 @@
-CS23300
+cmsc23300
 =======
 
-CMSC23300Winter2014
+cmsc 23300: Networks and Distributed Systems
